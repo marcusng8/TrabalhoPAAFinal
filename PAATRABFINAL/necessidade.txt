@@ -1,0 +1,41 @@
+Entrada: A entrada deve ser lida de um arquivo texto com números inteiros. O primeiro
+número, n, e a quantidade de cidades (indexadas com os números de 1 a n). Os números
+seguintes vêm em pares e representam as coordenadas das cidades (X e Y). O primeiro
+par de números são as coordenadas da cidade 1, o segundo par, da cidade 2 e assim
+sucessivamente até a cidade n. Considere que 0 ≤ n ≤ 100 e que 0 ≤ X,Y ≤ 1000.
+
+Saída: A saída deve ser escrita em um arquivo texto e deve conter a soma das distancias
+e uma sequência de números, representando a ordem em que as cidades foram
+visitadas. Inicie sempre está sequência com a cidade 1.
+
+forca bruta = naive
+dynamic - dinamico 
+Greedy Approach - guloso
+Genetic
+
+A documentação deverá conter no mínimo os seguintes tópicos:
+1) Introdução: informações gerais sobre o problema a ser tratado, o que vai ser
+feito no trabalho, os objetivos, visão geral sobre o funcionamento do
+programa.
+2) Implementação: descrição sobre a implementação do programa. Devem ser
+detalhadas as estruturas de dados utilizadas, o funcionamento das principais
+funções e procedimentos utilizados, o formato de entrada e saída de dados,
+bem como decisões tomadas relativas aos casos e detalhes de especificação
+que porventura estejam omissos no enunciado. Além disso, devem ser
+fornecidas informações técnicas sobre o ambiente computacional utilizado
+(sistema operacional, compilador, IDE ) e também sobre como executar o seu
+programa.
+3) Análise de Complexidade: análise de complexidade do pior e do melhor caso
+de todas as funções do programa e do programa principal. Essa análise pode
+ser feita de forma mais detalhada linha por linha, somando-se as
+complexidades ou de forma mais geral, explicando a complexidade da função
+como um todo. De qualquer forma, tem que ficar claro qual e a operação
+relevante e também as configurações de entrada que levam ao pior e ao
+melhor caso.
+4) Testes: descrever os testes realizados, mostrando a saída do programa além
+de eventuais análises e comparações que foram solicitadas no enunciado.
+5) Conclusão: comentários gerais sobre o trabalho e as principais dificuldades
+encontradas na implementação.
+6) Referências Bibliográficas: bibliografia utilizada para o desenvolvimento do
+trabalho, incluindo sites da internet se for o caso
+7) Anexos: listagem dos programas.
